@@ -14,4 +14,4 @@ To connect to the database, the following steps are:
 - **Username**: dm_team4
 - **Password**: DM!$!Team!47@4!23&
 
-- It can be connected to the database using the provided credential 
+  It can be connected to the database using the provided credential 
