@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This project aims to analyze medical data stored in a database and perform various queries to extract valuable insights.The database contains tables related to patients,admissions,doctors and medical records.
+This project aims to analyze medical data stored in a database and perform various queries to extract valuable insights.The database contains tables related to patients, admissions, doctors and medical records.
 
 # How to Connect to the Database
 
