@@ -4,9 +4,7 @@
 
 This project aims to analyze medical data stored in a database and perform various queries to extract valuable insights.The database contains tables related to patients, admissions, doctors and medical records.
 
-# How to Connect to the Database
-
-To connect to the database, the following steps are:
+# It can be connected to the database using the provided credential
 
 - **Database Name**: project_medical_data_history
 - **Host**: 18.136.157.135
@@ -14,4 +12,4 @@ To connect to the database, the following steps are:
 - **Username**: dm_team4
 - **Password**: DM!$!Team!47@4!23&
 
-  It can be connected to the database using the provided credential 
+   
