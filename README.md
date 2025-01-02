@@ -10,6 +10,6 @@ This project aims to analyze medical data stored in a database and perform vario
 - **Host**: 18.136.157.135
 - **Domain Name**: projects.datamites.com
 - **Username**: dm_team4
-- **Password**: DM!$!Team!47@4!23&
+- **Password**: DM!$!Team!47@4!23& .
 
    
