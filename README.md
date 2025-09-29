@@ -1,6 +1,6 @@
 #  Medical Data Insights
 
-## 👉 Presentation Link [Click here](https://docs.google.com/presentation/d/1u2sXCU-TLDSJuOLm4DyB40Uy5QjVp6MY/edit?usp=sharing&ouid=103788531059793905565&rtpof=true&sd=true)
+## 👉 Presentation:  [Click here](https://docs.google.com/presentation/d/1u2sXCU-TLDSJuOLm4DyB40Uy5QjVp6MY/edit?usp=sharing&ouid=103788531059793905565&rtpof=true&sd=true)
  
 ## Objective
 To manage and analyze a relational medical database containing patient, admission, doctor, and medical records by applying advanced SQL queries to extract meaningful healthcare insights and support data-driven decision-making.
